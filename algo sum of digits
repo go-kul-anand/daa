@@ -1,0 +1,9 @@
+Algorithm digits (a)
+//prob desc: to print sum of digits
+// i/p : n
+// o/p : Sum
+   s=0
+while(n!=0):
+    s= s+int(n%10)
+    n= int(n/10)
+    return (s)
