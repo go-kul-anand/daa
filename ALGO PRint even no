@@ -1,0 +1,7 @@
+Algorithm even (n)
+//prob desc: to print even no.
+// i/p : array a[0...n-1]
+// o/p : print even no.
+   arr = [0,1,2,3,4]
+    if arr%2==0:
+        print(arr)
