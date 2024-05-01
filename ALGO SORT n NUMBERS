@@ -1,0 +1,9 @@
+Algorithm sort (n)
+//prob desc: to sort n number
+// i/p : arrary a[0....n-1]
+// o/p : Sorted array
+    arr=[0,5,7,2]
+    n=len(arr)
+    sort(arr,n)
+    for i in range(0,n):
+        print (arr[i], end="")
