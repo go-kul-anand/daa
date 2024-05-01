@@ -1,0 +1,9 @@
+Algorithm fibonacci (n)
+//prob desc: to find fibonacci series
+// i/p : n
+// o/p : fibonacci series of n
+   fibonacci(n)
+      if n<=1
+         return n
+      else 
+          return fibonacci(n-1)+fibonacci(n-1)
