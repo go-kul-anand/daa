@@ -1,0 +1,8 @@
+Algorithm factorial (n)
+//prob desc: to find factorail of given no.
+// i/p : n
+// o/p : return factoral of given no
+   if n==0:
+      return 1
+  else:
+    return n*factorial(n-1)
