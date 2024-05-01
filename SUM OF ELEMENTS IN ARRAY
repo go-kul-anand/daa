@@ -1,0 +1,11 @@
+ALGORITHMS
+
+1. TO FIND SUM OF ELEMENTS IN ARRAY
+Algorithm sum[a]
+// Problem description : to find sum of elements in array
+//input : array a[0....n-1]
+//Output : sum of array elements
+        arr=[0,3,9]
+        n=len(arr)
+        a=sum(arr,n)
+        print(a)
